@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 HELLO!!!
 
-<!--
-**L-Casei/L-Casei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+I’m Alejandro Garcia, a programming student and junior Java developer focused on Spring Boot. During my internship, I built professional-style web applications with Spring Security, REST APIs, MySQL, Docker, and automated testing. I enjoy building secure backends and giving projects a modern, clean UI. 
 
-Here are some ideas to get you started:
+🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Higher National Diploma (DAW — Web Application Development) — 2023–2025
+
+Background at IES Puig Adams (ESO + Baccalaureate) 
+
+🧰 What I work with
+
+☕ Java / Spring Boot / Spring Security / JPA (Hibernate)
+
+🗄️ SQL (MySQL, H2)
+
+🌐 JavaScript + modern UI tooling (and Angular experience in other projects)
+
+🐳 Docker / Docker Compose / Git
+
+✅ JUnit 5 / security testing 
+
+📬 Contact
+
+✉️ Email: alexweb.garcia.jimenez@gmail.com
+
+
+📍 Getafe, Madrid (Remote-friendly) 
